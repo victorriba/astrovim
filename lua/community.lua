@@ -14,7 +14,6 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.completion.supermaven-nvim" },
-  { import = "astrocommunity.colorscheme.github-nvim-theme" },
   { import = "astrocommunity.icon.mini-icons" },
   { import = "astrocommunity.programming-language-support.rest-nvim" },
 

@@ -7,7 +7,6 @@ if true then return {} end -- WARN: REMOVE THIS LINE TO ACTIVATE THIS FILE
 return {
 
   -- == Examples of Adding Plugins ==
-  colorscheme = "github_dark",
   "andweeb/presence.nvim",
   {
     "ray-x/lsp_signature.nvim",
